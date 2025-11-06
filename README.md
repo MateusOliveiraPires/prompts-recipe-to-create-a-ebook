@@ -7,6 +7,7 @@ faça um texto para ebook, com foco em html, listando os principais seletores CS
 
 {REGRAS}
 >Explique sempre de uma maneira simples
->Deixe o texto enxuto
->Sempre traga exemplos de código em contextos reais
->Sempre deixe um título sugestivo por tópico
+Deixe o texto enxuto
+Sempre traga exemplos de código em contextos reais
+Sempre deixe um título sugestivo por tópico
+
